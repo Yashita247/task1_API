@@ -6,7 +6,7 @@ A) SignupFlow:
 
   i. choosePlan.py  
   ii.chooseSpecificPlan.py  
-  iii. setDomain.py 
+  iii. setDomain.py   
   iv.payment.py 
   
 Query: I could retrieve the required parameters from the respective API calls in payment.py, but I was not able to view the expected billing informating page in "payment.html" - attached to this repository. 
