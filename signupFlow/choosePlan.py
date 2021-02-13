@@ -3,7 +3,6 @@ import requests
 
 cookies = {
     'eigi-geolocated-country-code': 'us',
-    'user_login': 'test-ypj04.com',
     'currency': 'INR',
     'Currency_Symbol': '\xE2\x82\xB9',
     'country': 'IND',
